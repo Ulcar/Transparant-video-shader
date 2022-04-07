@@ -2,6 +2,7 @@
 
 
 Shader that allows transparent videos to play in Unity in normal video formats.
+This shader follows the same format as transparent videos in the video game Caligula 2. Video files exported from that game's assets work perfectly in this shader.
 
 
 To make this work, take the following steps:
